@@ -18,4 +18,4 @@ Python · C · HTML/CSS/JavaScript · Git/GitHub · Arduino
 - **SenseBin**: 
 
 ## 📫 Connect
-[LinkedIn]([(https://www.linkedin.com/in/om-nagare-80149a364/?isSelfProfile=true)) · omnagare117@gmail.com
+[LinkedIn]([(https://www.linkedin.com/in/om-nagare-80149a364/?isSelfProfile=true)]) · omnagare117@gmail.com
