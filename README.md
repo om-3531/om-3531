@@ -11,11 +11,11 @@ I build intelligent systems that connect sensor data with AI, from embedded hard
 
 ## 🛠️ Tech I use
 Python · C · HTML/CSS/JavaScript · Git/GitHub · Arduino  
-[add only what you can explain in an interview]
+
 
 ## 📂 Featured projects
 - **ResearchRadar-AI**: autonomous research and competitor intelligence using n8n + Google Gemini
-- **SenseBin**: [add repo link once uploaded]
+- **SenseBin**: 
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/om-nagare) · omnagare117@gmail.com
